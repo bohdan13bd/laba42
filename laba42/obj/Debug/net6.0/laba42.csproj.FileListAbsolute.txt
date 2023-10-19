@@ -1,0 +1,14 @@
+C:\Users\bogda\source\repos\laba42\laba42\bin\Debug\net6.0\laba42.exe
+C:\Users\bogda\source\repos\laba42\laba42\bin\Debug\net6.0\laba42.deps.json
+C:\Users\bogda\source\repos\laba42\laba42\bin\Debug\net6.0\laba42.runtimeconfig.json
+C:\Users\bogda\source\repos\laba42\laba42\bin\Debug\net6.0\laba42.dll
+C:\Users\bogda\source\repos\laba42\laba42\bin\Debug\net6.0\laba42.pdb
+C:\Users\bogda\source\repos\laba42\laba42\obj\Debug\net6.0\laba42.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogda\source\repos\laba42\laba42\obj\Debug\net6.0\laba42.AssemblyInfoInputs.cache
+C:\Users\bogda\source\repos\laba42\laba42\obj\Debug\net6.0\laba42.AssemblyInfo.cs
+C:\Users\bogda\source\repos\laba42\laba42\obj\Debug\net6.0\laba42.csproj.CoreCompileInputs.cache
+C:\Users\bogda\source\repos\laba42\laba42\obj\Debug\net6.0\laba42.dll
+C:\Users\bogda\source\repos\laba42\laba42\obj\Debug\net6.0\refint\laba42.dll
+C:\Users\bogda\source\repos\laba42\laba42\obj\Debug\net6.0\laba42.pdb
+C:\Users\bogda\source\repos\laba42\laba42\obj\Debug\net6.0\laba42.genruntimeconfig.cache
+C:\Users\bogda\source\repos\laba42\laba42\obj\Debug\net6.0\ref\laba42.dll
